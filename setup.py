@@ -71,12 +71,12 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/roshancode/PizzaPy',
+    url='https://github.com/Dancode/PizzaPy',
 
     # Author details
-    author='Roshan Lamichhhane',
-    author_email='roshanlamichhanenepali@gmail.com',
-    author_website='roshanlamichhane.com',
+    author='Dan Makes',
+    author_email='danmakesichhanenepali@gmail.com',
+    author_website='danmakesichhane.com',
 
     # What does your project relate to?
     keywords='Order Pizza',

@@ -13,8 +13,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'pizzapy'
-copyright = u'2019, Roshan Lamichhane'
-author = u'Roshan Lamichhane'
+copyright = u'2019, Dan Makes'
+author = u'Dan Makes'
 
 
 version = u'0.0.2'
